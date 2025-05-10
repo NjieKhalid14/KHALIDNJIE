@@ -33,7 +33,6 @@ h4, h6{
 }
 p{
     font-family: Arial, Helvetica, sans-serif;
-    text-transform: uppercase;
     color: cyan;
     text-decoration: underline;
     word-spacing: 5px;
@@ -46,4 +45,10 @@ body{
     visibility: visible;
     margin: 24px;
     padding: 26px;
+}
+#first{
+    color: black;
+}
+#second{
+    color: brown;
 }
